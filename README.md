@@ -9,5 +9,5 @@ The main purpose of this analysis is to identify the cryptocurrencies which are 
 - *hvplot*
 
 ## Result
-The main result of this clustering
+The scatter plot below shows the main result of this clustering where the tradable cryptocurrencies are grouped into four clusters. 
 ![cryptos](./tradables.png)

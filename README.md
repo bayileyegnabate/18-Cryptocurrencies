@@ -10,4 +10,4 @@ The main purpose of this analysis is to identify the cryptocurrencies which are 
 
 ## Result
 The main result of this clustering
-![cryptos]("tradables.png")
+![cryptos]("https://github.com/bayileyegnabate/18-Cryptocurrencies/tradabls.png"")
